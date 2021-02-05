@@ -1,0 +1,21 @@
+{
+"name": "Your Name",
+"email": "bob@example.com",
+"email_subject": "Page Load",
+"do_geo": true,
+"do_sort": true,
+"send_email": true,
+"p_tag": "Provide any details on this word cloud",
+"links":
+	{
+	"LinkedIn Profile": "https://www.linkedin.com/"
+	},
+"buttons":
+	{
+	"success": "subject matter expert",
+	"primary": "proficient",
+	"info": "knowledgeable",
+	"warning": "familiar",
+	"secondary": "basic usage"
+	}
+}
