@@ -3,5 +3,5 @@
 "linux": "primary",
 "git": "info",
 "windows": "warning",
-"bootstrap": "secondary",
+"bootstrap": "secondary"
 }

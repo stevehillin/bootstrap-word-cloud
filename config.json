@@ -4,7 +4,7 @@
 "email_subject": "Page Load",
 "do_geo": true,
 "do_sort": true,
-"send_email": true,
+"send_email": false,
 "p_tag": "Provide any details on this word cloud",
 "links":
 	{
