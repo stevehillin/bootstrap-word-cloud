@@ -4,6 +4,8 @@ You can use this in any way you see fit, from listing your competancies for hiri
 
 Easy to deploy, uses Bootstrap CDN with a minimal CSS file.
 
+Sample [here](https://steve.hillin.com/).
+
 ### Usage ###
 
 `keywords.json` houses the button details that get ingested by index.php upon page load.  Map your labels to Bootstrap's pre-defined button styles (see https://getbootstrap.com/docs/4.0/components/buttons/)
