@@ -51,7 +51,7 @@ if($config->send_email)
 		$msg->Referrer = $_SERVER['HTTP_REFERER'];
 	}
 	$msg->UserAgent = $_SERVER['HTTP_USER_AGENT'];
-//	mail($config->email, $config->email_subject, json_encode($msg, JSON_PRETTY_PRINT));
+	mail($config->email, $config->email_subject, json_encode($msg, JSON_PRETTY_PRINT));
 }
 ?>
 <!doctype html>
