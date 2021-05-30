@@ -2,7 +2,7 @@
 
 You can use this in any way you see fit, from listing your competancies for hiring processes (my initial motivation) to whatever your heart desires.  Have at it!
 
-Easy to deploy, uses Bootstrap CDN with a minimal CSS file.
+Easy to deploy, uses Bootstrap and JQuery CDN with a minimal CSS file.
 
 Sample [here](https://steve.hillin.com/).
 
